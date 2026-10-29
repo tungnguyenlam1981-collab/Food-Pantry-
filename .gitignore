@@ -1,0 +1,7 @@
+# See https://help.github.com/articles/ignoring-files/for-git-repos/
+
+.next
+node_modules
+out
+npm-debug.log*
+.DS_Store
